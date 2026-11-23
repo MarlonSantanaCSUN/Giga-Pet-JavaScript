@@ -1,1 +1,1 @@
-https://marlonsantanacsun.github.io/COMP-484-L-Project-2/
+https://marlonsantanacsun.github.io/Giga-Pet-JavaScript/
